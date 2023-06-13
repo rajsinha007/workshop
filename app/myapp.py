@@ -4,10 +4,10 @@ import numpy as np
 import pyodbc
 
 # Database connection string
-server = 'sql-prod-ap-exp-cfit-b2dprdsvr-pldnsazr.database.windows.net'
-database = 'b2d'
-username = 'csvadm'
-password = '4g#w5G#d6g2%q'
+server = 'sq.windows.net'
+database = ''
+username = ''
+password = ''
 
 connection_string = f"DRIVER={{SQL Server}};SERVER={server};DATABASE={database};UID={username};PWD={password}"
 
