@@ -3,10 +3,10 @@ import pandas as pd
 import pyodbc
 
 # Database details
-server = 'sql-prod-ap-exp-cfit-b2dprdsvr-pldnsazr.database.windows.net'
-database = 'b2d'
-username = 'csvadm'
-password = '4g#w5G#d6g2%q'
+server = 'db.net'
+database = ''
+username = ''
+password = ''
 table_name = 'project_r2'
 
 # Establish database connection
