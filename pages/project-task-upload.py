@@ -4,10 +4,10 @@ import pyodbc
 from datetime import datetime
 
 # Database connection details
-server = 'sql-prod-ap-exp-cfit-b2dprdsvr-pldnsazr.database.windows.net'
-database = 'b2d'
-username = 'csvadm'
-password = '4g#w5G#d6g2%q'
+server = 'sqlows.net'
+database = 'bd'
+username = 'cm'
+password = '4q'
 table_name = 'project_tasks_r2'
 
 def calculate_est_effort(row):
